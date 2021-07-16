@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "vXHtnHDaGOGD37cU/3c8SxF4ZjNVX/lxCYXdjcY8al1tJirKHOwQDy26bhjUE5y5yCDdZX0I3/N6jbAzSKx3hg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\noahv\\source\\repos\\RawCoding\\Basics\\Basics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\noahv\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.7\\microsoft.aspnetcore.authorization.5.0.7.nupkg.sha512",
+    "C:\\Users\\noahv\\.nuget\\packages\\microsoft.aspnetcore.metadata\\5.0.7\\microsoft.aspnetcore.metadata.5.0.7.nupkg.sha512",
+    "C:\\Users\\noahv\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\noahv\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\noahv\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\noahv\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
